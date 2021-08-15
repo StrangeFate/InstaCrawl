@@ -11,3 +11,5 @@ Instagram crawler
 
 Known issue:
 1. Instagram blocks it when it reaches 900~1000 posts
+
+“This project is licensed under the terms of the MIT license.”
